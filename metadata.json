@@ -1,0 +1,7 @@
+{
+  "name": "AMAX Fit",
+  "description": "AI-Powered Fitness Web App with 3D workout demonstrations and nutrition tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
